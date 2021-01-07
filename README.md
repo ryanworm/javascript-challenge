@@ -2,7 +2,7 @@
 
 This webpage allows the user to filter a list of UFO sightings by multiple parameters. 
 
-![screenshot](/static/images/filters.PNG)
+![screenshot](/static/images/.png)
 
 * Tools/Packages
   * HTML 
